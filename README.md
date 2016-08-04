@@ -5,3 +5,5 @@
 
 ###後端資料庫: Hadoop DataBase
 
+###後端server: Hadoop2.6.0+ Tomcat server
+
