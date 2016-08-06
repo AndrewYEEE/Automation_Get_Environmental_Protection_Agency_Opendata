@@ -1,7 +1,7 @@
 <%-- 
     Document   : test_javascript_form_put_data
     Created on : Apr 11, 2016, 1:34:24 PM
-    Author     : hadoop
+    Author     : Chao wei chu
 --%>
 <%@page import="org.apache.hadoop.conf.Configuration"%>
 <%@page import="org.apache.hadoop.hbase.HBaseConfiguration"%>
