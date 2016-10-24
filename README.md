@@ -7,3 +7,7 @@
 
 ###後端server: Hadoop2.6.0+ Tomcat server
 
+成果作證截圖:
+
+![show](/opendataPrintScreen.png)
+
